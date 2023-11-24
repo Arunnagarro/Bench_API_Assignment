@@ -1,0 +1,4 @@
+10:50:56.677 [main] DEBUG org.apache.http.headers - << Via: 1.1 vegur
+10:50:56.679 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient - Connection can be kept alive indefinitely
+10:50:56.679 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/plain; charset=utf-8
+10:50:56.680 [main] DEBUG io.restassured.internal.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream

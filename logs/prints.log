@@ -1,0 +1,4 @@
+10:50:56.681 [main] DEBUG org.apache.http.wire -  << "Created"
+10:50:56.684 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@45c90a05
+10:50:56.684 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager - Connection can be kept alive indefinitely
+10:50:56.685 [main] INFO  BaseClass.Base_Class - -------------Delete Booking-------------------

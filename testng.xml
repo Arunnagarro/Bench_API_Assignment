@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="Test_Cases.Test1_Get_Token" />
+			<class name="Test_Cases.Test2_Get_Booking_IDs" />
+			<class name="Test_Cases.Test3_Get_Booking" />
+			<class name="Test_Cases.Test4_Create_Booking" />
+			<class name="Test_Cases.Test5_Update_Booking" />
+			<class name="Test_Cases.Test6_PartialUpdate" />
+			<class name="Test_Cases.Test7_Delete_Booking" />
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Test_Cases.Test7_Delete_Booking">
+        <methods>
+          <include name="startTest"/>
+          <include name="setReports"/>
+          <include name="endReport"/>
+          <include name="endTest"/>
+          <include name="basic_Details"/>
+          <include name="atestCaseResult"/>
+          <include name="Delete_Booking" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- Test_Cases.Test7_Delete_Booking -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
